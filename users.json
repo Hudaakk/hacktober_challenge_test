@@ -1,9 +1,9 @@
 {
-users:[
-        {
-        "name":"Ahammed hinas kk",
-        "age":"22",
-        "blood_group":"b+ve",
-        },
-      ]
+  "users": [
+    {
+      "name": "Ahammed Hinas KK",
+      "age": 22,
+      "blood_group": "B+ve"
+    }
+  ]
 }
